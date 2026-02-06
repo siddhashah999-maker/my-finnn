@@ -1,0 +1,5 @@
+{
+  "name": "FinPredict AI - Advanced Stock Forecasting",
+  "description": "An AI-powered financial analysis platform that uses Gemini 3 to predict stock price trends, analyze market sentiment, and evaluate various algorithmic forecasting models based on historical data.",
+  "requestFramePermissions": []
+}
